@@ -1,10 +1,16 @@
 _repo: Elements-of-the-Theory-and-Practice-of-Chymistry-5th-ed_46998
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Macquer, Pierre Joseph
     gutenberg_agent_id: '44088'
     url: http://www.gutenberg.org/2009/agents/44088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46998#Elements-of-the-Theory-and-Practice-of-Chymistry-5th-ed
 gutenberg_issued: '2014-09-29'
 gutenberg_type: Text
 identifiers:
